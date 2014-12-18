@@ -1,0 +1,10 @@
+C:\Users\marchbold\work\distriqt\projects\pushnotifications\GCMServer\GCMTestServer\bin\GCMTestServer.dll
+C:\Users\marchbold\work\distriqt\projects\pushnotifications\GCMServer\GCMTestServer\bin\GCMTestServer.pdb
+C:\Users\marchbold\work\distriqt\projects\pushnotifications\GCMServer\GCMTestServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marchbold\work\distriqt\projects\pushnotifications\GCMServer\GCMTestServer\obj\Debug\GCMTestServer.dll
+C:\Users\marchbold\work\distriqt\projects\pushnotifications\GCMServer\GCMTestServer\obj\Debug\GCMTestServer.pdb
+D:\Project\.NET C#\GCM\GCMServer\GCMTestServer\bin\GCMTestServer.dll
+D:\Project\.NET C#\GCM\GCMServer\GCMTestServer\bin\GCMTestServer.pdb
+D:\Project\.NET C#\GCM\GCMServer\GCMTestServer\obj\Debug\GCMTestServer.csprojResolveAssemblyReference.cache
+D:\Project\.NET C#\GCM\GCMServer\GCMTestServer\obj\Debug\GCMTestServer.dll
+D:\Project\.NET C#\GCM\GCMServer\GCMTestServer\obj\Debug\GCMTestServer.pdb
